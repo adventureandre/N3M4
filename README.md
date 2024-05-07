@@ -1,16 +1,14 @@
 # Titulo
 
-## RPG0015  - Vamos manter as informações!
-- Modelagem e implementação de um banco de dados simples, utilizando como base o
-SQL Server.
+## RPG0025  - Lidando com sensores em dispositivos móveis
 
 ## Objetivos da prática
 
 
-- Identificar os requisitos de um sistema e transformá-los no modelo adequado.
-- Utilizar ferramentas de modelagem para bases de dados relacionais.
-- Explorar a sintaxe SQL na criação das estruturas do banco (DDL).
-- Explorar a sintaxe SQL na consulta e manipulação de dados (DML).
+- compreenderemos que os apps do Wear OS podem
+funcionar como um dos principais frameworks para o desenvolvimento de
+aplicações mobile. Um aplicativo Wearable pode ter várias especialidades,
+desde entretenimento e comunicação
 
 
 ## Credits
